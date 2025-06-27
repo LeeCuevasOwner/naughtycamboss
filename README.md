@@ -6,10 +6,10 @@ A simple React front-end inspired by camsharks.com.
 
 This project uses CDN-hosted React and Babel for quick setup. To run the site locally you need Node.js installed.
 
-Install dependencies (only `serve` is required for the dev server):
+Install dependencies:
 
 ```bash
-npm install serve
+npm install
 ```
 
 Start the server:
@@ -18,4 +18,4 @@ Start the server:
 npm start
 ```
 
-Then open <http://localhost:3000> in your browser.
+Then open <http://localhost:3000/public> in your browser.
