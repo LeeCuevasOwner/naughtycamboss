@@ -18,4 +18,4 @@ Start the server:
 npm start
 ```
 
-Then open <http://localhost:3000/public> in your browser.
+Then open <http://localhost:3000> in your browser.
